@@ -1,3 +1,4 @@
+//main application
 import React, { useState } from 'react'
 import GoogleLogin, { GoogleLogout } from 'react-google-login';
 import Quiz from './Quiz';
